@@ -1,0 +1,12 @@
+dictionaries:
+  - en
+  - en_CA
+  - en_GB
+excluded_files:
+  - '.github/**/*'
+  - .anylint
+  - .gitignore
+  - .typo-ci.yml
+  - **/*.css
+excluded_words:
+  - typoci
