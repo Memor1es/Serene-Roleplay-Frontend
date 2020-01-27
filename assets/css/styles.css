@@ -14,6 +14,24 @@
   margin-top: 0.5vh;
 }
 
+.srp-footer-container {
+  background-color: #1c1c1e;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 5vh;
+  padding-top: 5vh;
+}
+
+.srp-footer-container .uk-divider-icon {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5vh;
+}
+
+.srp-footer-container .uk-grid-small {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
 .srp-hero {
   max-height: 60vh;
   overflow: hidden;
@@ -29,6 +47,11 @@
   transform: translateY(-15%);
 }
 
+.srp-join-container {
+  font-family: 'Lato', sans-serif;
+  padding: 5vh 30%;
+}
+
 .uk-navbar-container {
   position: absolute;
   width: 100%;
@@ -41,7 +64,7 @@
 }
 
 .uk-overlay h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 500;
 }
 

@@ -46,16 +46,14 @@ include ('header.php');
 				<div class="uk-card uk-card-secondary uk-card-body">
 					<i class="far fa-address-book"></i>
 					<h3 class="uk-card-title">Whitelisted Jobs</h3>
-					<p>Become more than just a citizen in the State of San Andreas! Join a whitelisted job within the law enforcement, fire department, additional citizen jobs, and
-						many more.</p>
+					<p>Become more than just a citizen in the State of San Andreas! Join a whitelisted job within the law enforcement, fire department, additional citizen jobs, and many more.</p>
 				</div>
 			</div>
 			<div>
 				<div class="uk-card uk-card-secondary uk-card-body">
 					<i class="fas fa-wallet"></i>
 					<h3 class="uk-card-title">Player Controlled Economy</h3>
-					<p>Jobs, Stores, and other areas that are controlled and maintained by players to initiate global roleplay across San Andreas. This is to provide players with
-						more risk and entertainment in their Serene Roleplay experience.</p>
+					<p>Jobs, Stores, and other areas that are controlled and maintained by players to initiate global roleplay across San Andreas. This is to provide players with more risk and entertainment in their Serene Roleplay experience.</p>
 				</div>
 			</div>
 			<div>
@@ -66,5 +64,12 @@ include ('header.php');
 				</div>
 			</div>
 		</div>
+	</div>
+
+	<div class="uk-background-blend-overlay uk-background-secondary uk-container uk-text-center uk-width-1-1 srp-join-container uk-background-cover uk-background-bottom-center uk-light" style="background-image: url('assets/img/joinbg.jpg');">
+		<h2 class="uk-text-bold">Ready to Join?</h2>
+		<a href="#">
+			<button class="uk-button uk-button-default uk-button-large">Applications</button>
+		</a>
 	</div>
 	<?php include ('footer.php'); ?>
