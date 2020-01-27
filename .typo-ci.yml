@@ -4,9 +4,9 @@ dictionaries:
   - en_GB
 excluded_files:
   - '.github/**/*'
+  - '**/*.css'
   - .anylint
   - .gitignore
   - .typo-ci.yml
-  - **/*.css
 excluded_words:
   - typoci
