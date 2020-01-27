@@ -3,7 +3,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title><?php echo $pageName; ?> | Serene Roleplay</title>
+		<title> <?php echo $pageName; ?> | Serene Roleplay</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="title" content="Serene Roleplay | Roleplay Reimagined">
 		<meta name="description" content="The Serene Roleplay Website.">
@@ -13,13 +13,13 @@
 		<meta name="language" content="English">
 		<meta name="author" content="BillyIsMe">
 		<link rel="icon" type="image/x-icon" href="<?php echo adjustRecursivity(); ?>assets/img/favicon.ico" />
-		<script src="<?php echo adjustRecursivity(); ?>assets/css/styles.css"></script>
 		<link rel="stylesheet" href="<?php echo adjustRecursivity(); ?>assets/css/uikit.min.css" />
 		<script src="<?php echo adjustRecursivity(); ?>assets/js/uikit.min.js"></script>
 		<script src="<?php echo adjustRecursivity(); ?>assets/js/uikit-icons.min.js"></script>
 		<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+		<link rel="stylesheet" href="<?php echo adjustRecursivity(); ?>assets/css/styles.css" />
 	</head>
 
 	<body>
