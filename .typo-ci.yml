@@ -3,8 +3,8 @@ dictionaries:
   - en_CA
   - en_GB
 excluded_files:
-  - '.github/**/*'
   - '**/*.css'
+  - '.github/**/*'
   - .anylint
   - .gitignore
   - .typo-ci.yml

@@ -1,0 +1,51 @@
+.srp-feature-container {
+  background: #2e3138;
+  padding-bottom: 6vh;
+  padding-top: 3vh;
+}
+
+.srp-feature-container .uk-heading-line {
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 1vh;
+}
+
+.srp-feature-container i {
+  font-size: 3rem;
+  margin-top: 0.5vh;
+}
+
+.srp-hero {
+  max-height: 60vh;
+  overflow: hidden;
+  padding: 0;
+  top: 0;
+}
+
+.srp-hero-overlay {
+  transform: translateY(-20%);
+}
+
+.srp-hero-overlay-img {
+  transform: translateY(-15%);
+}
+
+.uk-navbar-container {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+.uk-navbar-left a {
+  justify-content: start;
+  padding: 0;
+}
+
+.uk-overlay h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.uk-overlay p {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2em;
+}
