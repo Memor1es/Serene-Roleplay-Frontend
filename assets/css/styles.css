@@ -33,18 +33,14 @@
 }
 
 .srp-hero {
-  max-height: 60vh;
-  overflow: hidden;
-  padding: 0;
-  top: 0;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10%;
+  padding-top: 10%;
 }
 
-.srp-hero-overlay {
-  transform: translateY(-20%);
-}
-
-.srp-hero-overlay-img {
-  transform: translateY(-15%);
+.srp-hero .uk-heading-line {
+  margin-left: 40%;
+  margin-right: 40%;
 }
 
 .srp-join-container {
@@ -64,7 +60,7 @@
 }
 
 .uk-overlay h1 {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 500;
 }
 

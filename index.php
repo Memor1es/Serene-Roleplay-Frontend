@@ -4,15 +4,9 @@ $pageLevel = 0;
 include ('includes/recursivity.php');
 include ('header.php');
 ?>
-	<div class="uk-container uk-height-max-large uk-width-expand srp-hero">
-		<div class="uk-inline srp-hero-overlay">
-			<img class="srp-hero-overlay-img" src="assets/img/herobg.jpg" alt="Hero Background">
-			<div class="uk-overlay-primary uk-position-cover"></div>
-			<div class="uk-overlay uk-position-center uk-light">
-				<h1 class="uk-text-center">Serene Roleplay</h1>
-				<p class="uk-heading-line uk-text-center"><span>Roleplay Re-imagined</span></p>
-			</div>
-		</div>
+	<div class="uk-background-blend-soft-light uk-background-secondary uk-container uk-text-center uk-width-1-1 uk-background-cover uk-background-bottom-center uk-light srp-hero" style="background-image: url('assets/img/herobg.jpg');">
+		<h1>Serene Roleplay</h1>
+		<p class="uk-heading-line"><span>Roleplay Re-imagined</span></p>
 	</div>
 
 	<div class="uk-container uk-text-center uk-width-1-1 srp-feature-container">
