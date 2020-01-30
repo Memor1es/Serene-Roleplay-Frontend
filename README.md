@@ -1,8 +1,8 @@
-<h1 align="center"> Serene Roleplay Website </h1>
+<h1 align="center"> Serene Roleplay Frontend </h1>
 
 ## Overview
 
-This repository contains the site of [Serene Roleplay](https://sereneroleplay.com/).
+This repository contains the frontend of the [Serene Roleplay](https://sereneroleplay.com/) website.
 
 ## Team
 
