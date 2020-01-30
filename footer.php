@@ -1,4 +1,4 @@
-<div class="uk-container uk-text-center uk-width-1-1 srp-footer-container">
+<div class="uk-container uk-text-center uk-width-1-1 srp-footer">
 	<div class="uk-child-width-1-3 uk-grid-small uk-grid-match uk-light" uk-grid>
 		<div>
 			<ul class="uk-list">
@@ -14,7 +14,7 @@
 				<h4>Social</h4>
 				<hr class="uk-divider-small">
 				<li><a href="https://discord.gg/hvUbvC4" target="_blank">Discord</a></li>
-				<li><a href="167.114.210.30:9009" target="_blank">Teamspeak</a></li>
+				<li><a href="ts3server://167.114.210.30:9009" target="_blank">Teamspeak</a></li>
 				<li><a href="https://www.youtube.com/channel/UC_G2V9tYUmuwpHg-yvOOViA" target="_blank">YouTube</a></li>
 				<li><a href="https://twitter.com/Serene_RP" target="_blank">Twitter</a></li>
 			</ul>
