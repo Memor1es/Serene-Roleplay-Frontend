@@ -8,8 +8,6 @@ This repository contains the frontend of the [Serene Roleplay](https://serenerol
 
 **[BillyIsMe](https://github.com/TheBillyIsMe)** - Project Lead and Full Stack Developer
 
-## Legal Disclaimer
+## License
 
-<h5 align="center">This project and its contents are the intellectual property of Serene Roleplay and BillyIsMe. Not for use outside Serene Roleplay' Services unless otherwise authorized.</h5>
-
-<h4 align="center"> © 2019-2020 Serene Roleplay. All Rights Reserved. Do Not Redistribute. </h4>
+This project is licensed under the [MIT](./LICENSE.md) License &copy; 2020 [TheBillyIsMe](https://github.com/TheBillyIsMe/)
